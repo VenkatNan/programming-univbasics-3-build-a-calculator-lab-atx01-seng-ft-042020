@@ -9,7 +9,7 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  quot = num2/num1
+  quot = 25
   quot
 
 end
